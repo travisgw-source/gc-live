@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T13:31:36.079Z",
+  "updated_at": "2026-08-13T13:33:40.397Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -46,7 +46,7 @@
       "name": "Stools",
       "slug": "stools",
       "description": null,
-      "quantity_owned": 50,
+      "quantity_owned": 150,
       "squarespace_path": null,
       "buffer_days": 0,
       "active": true,
