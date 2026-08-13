@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T13:12:41.651Z",
+  "updated_at": "2026-08-13T13:14:51.794Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -181,6 +181,19 @@
       "buffer_days": 0,
       "active": true,
       "sort_order": 125,
+      "unit": "each"
+    },
+    {
+      "id": "p-bar-top",
+      "sku": "BAR-TOP",
+      "name": "Barrel bar top",
+      "slug": "barrel-bar-top",
+      "description": null,
+      "quantity_owned": 4,
+      "squarespace_path": null,
+      "buffer_days": 0,
+      "active": true,
+      "sort_order": 126,
       "unit": "each"
     },
     {
