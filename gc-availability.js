@@ -6,7 +6,8 @@
     .gc-av h3 { margin: 0 0 0.2rem !important; padding: 0 !important; font-size: 0.9rem; line-height: 1.2; }
     .gc-av .sub { display: none; }
     .gc-av .row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem; margin: 0 0 0.25rem !important; }
-    .gc-av .row.triple { grid-template-columns: 1fr 1fr minmax(4.6rem, 0.7fr); }
+    .gc-av .row.triple { grid-template-columns: 1fr 1fr minmax(4.2rem, 0.65fr); }
+    .gc-av .gc-qty-label { margin: 0 !important; }
     .gc-av .row > div { margin: 0 !important; padding: 0 !important; }
     .gc-av label { display: block !important; font-size: 0.58rem !important; font-weight: 700 !important;
       text-transform: uppercase; letter-spacing: 0.03em; color: #78716c !important;
