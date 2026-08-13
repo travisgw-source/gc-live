@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T13:27:45.063Z",
+  "updated_at": "2026-08-13T13:29:05.380Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -8,11 +8,13 @@
       "slug": "wine-barrels-oak",
       "description": null,
       "quantity_owned": 25,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/wine-barrel-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 10,
-      "unit": "each"
+      "short_name": "Oak barrels",
+      "unit": "each",
+      "category": "Barrels"
     },
     {
       "id": "p-barrel-white",
@@ -21,11 +23,13 @@
       "slug": "wine-barrels-white",
       "description": null,
       "quantity_owned": 20,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/wine-barrel-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 20,
-      "unit": "each"
+      "short_name": "White barrels",
+      "unit": "each",
+      "category": "Barrels"
     },
     {
       "id": "p-barrel-flex",
@@ -34,11 +38,13 @@
       "slug": "wine-barrels-oak-or-white",
       "description": null,
       "quantity_owned": 45,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/wine-barrel-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 25,
-      "unit": "each"
+      "short_name": "Barrels ?",
+      "unit": "each",
+      "category": "Barrels"
     },
     {
       "id": "p-stools",
@@ -46,12 +52,14 @@
       "name": "Stools",
       "slug": "stools",
       "description": null,
-      "quantity_owned": 50,
-      "squarespace_path": null,
+      "quantity_owned": 150,
+      "squarespace_path": "/shop/p/furniture-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 30,
-      "unit": "each"
+      "short_name": "Stools",
+      "unit": "each",
+      "category": "Furniture"
     },
     {
       "id": "p-festoon",
@@ -60,11 +68,13 @@
       "slug": "festoon-lights",
       "description": "Book quantity in metres",
       "quantity_owned": 1000,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/festoon-light-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 40,
-      "unit": "m"
+      "short_name": "Festoon",
+      "unit": "m",
+      "category": "Lighting"
     },
     {
       "id": "p-cane-6",
@@ -73,11 +83,13 @@
       "slug": "cane-furniture-6-seater",
       "description": null,
       "quantity_owned": 5,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/furniture-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 50,
-      "unit": "each"
+      "short_name": "Cane set",
+      "unit": "each",
+      "category": "Furniture"
     },
     {
       "id": "p-marquee-4x8",
@@ -86,11 +98,13 @@
       "slug": "marquee-4x8",
       "description": null,
       "quantity_owned": 7,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/marquee-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 60,
-      "unit": "each"
+      "short_name": "Marquee",
+      "unit": "each",
+      "category": "Marquees & outdoor"
     },
     {
       "id": "p-dance",
@@ -99,11 +113,13 @@
       "slug": "dance-floor",
       "description": null,
       "quantity_owned": 1,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/dance-floor-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 70,
-      "unit": "each"
+      "short_name": "Dance floor",
+      "unit": "each",
+      "category": "Marquees & outdoor"
     },
     {
       "id": "p-disco",
@@ -112,11 +128,13 @@
       "slug": "disco-lights-speaker",
       "description": null,
       "quantity_owned": 1,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/weddinghireperth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 80,
-      "unit": "each"
+      "short_name": "Disco",
+      "unit": "each",
+      "category": "Lighting"
     },
     {
       "id": "p-love",
@@ -125,11 +143,13 @@
       "slug": "love-sign-6ft",
       "description": null,
       "quantity_owned": 1,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/love-sign-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 90,
-      "unit": "each"
+      "short_name": "LOVE sign",
+      "unit": "each",
+      "category": "Ceremony"
     },
     {
       "id": "p-heaters",
@@ -138,11 +158,13 @@
       "slug": "heaters",
       "description": null,
       "quantity_owned": 7,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/marquee-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 100,
-      "unit": "each"
+      "short_name": "Heaters",
+      "unit": "each",
+      "category": "Marquees & outdoor"
     },
     {
       "id": "p-bar-white",
@@ -151,11 +173,13 @@
       "slug": "bar-white",
       "description": null,
       "quantity_owned": 1,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/bar-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 110,
-      "unit": "each"
+      "short_name": "White bar",
+      "unit": "each",
+      "category": "Bars"
     },
     {
       "id": "p-bar-oak",
@@ -164,11 +188,13 @@
       "slug": "bar-oak",
       "description": null,
       "quantity_owned": 1,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/bar-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 120,
-      "unit": "each"
+      "short_name": "Oak bar",
+      "unit": "each",
+      "category": "Bars"
     },
     {
       "id": "p-bar-flex",
@@ -177,11 +203,13 @@
       "slug": "bar-oak-or-white",
       "description": null,
       "quantity_owned": 2,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/bar-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 125,
-      "unit": "each"
+      "short_name": "Bar ?",
+      "unit": "each",
+      "category": "Bars"
     },
     {
       "id": "p-bar-top",
@@ -190,11 +218,13 @@
       "slug": "barrel-bar-top",
       "description": null,
       "quantity_owned": 10,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/wine-barrel-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 126,
-      "unit": "each"
+      "short_name": "Bar top",
+      "unit": "each",
+      "category": "Bars"
     },
     {
       "id": "p-arch",
@@ -203,11 +233,13 @@
       "slug": "wedding-arch",
       "description": null,
       "quantity_owned": 2,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/ceremonyhireperth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 130,
-      "unit": "each"
+      "short_name": "Arch",
+      "unit": "each",
+      "category": "Ceremony"
     },
     {
       "id": "p-bench",
@@ -216,11 +248,13 @@
       "slug": "wedding-bench",
       "description": null,
       "quantity_owned": 16,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/premiumweddingbenches",
       "buffer_days": 0,
       "active": true,
       "sort_order": 140,
-      "unit": "each"
+      "short_name": "Benches",
+      "unit": "each",
+      "category": "Ceremony"
     },
     {
       "id": "p-ottoman",
@@ -229,11 +263,13 @@
       "slug": "pallet-ottoman",
       "description": null,
       "quantity_owned": 4,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/furniture-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 150,
-      "unit": "each"
+      "short_name": "Ottoman",
+      "unit": "each",
+      "category": "Furniture"
     },
     {
       "id": "p-signing",
@@ -242,11 +278,13 @@
       "slug": "signing-table",
       "description": null,
       "quantity_owned": 2,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/ceremonysigningtable",
       "buffer_days": 0,
       "active": true,
       "sort_order": 160,
-      "unit": "each"
+      "short_name": "Signing tbl",
+      "unit": "each",
+      "category": "Ceremony"
     },
     {
       "id": "p-americana",
@@ -255,11 +293,13 @@
       "slug": "americana-chairs",
       "description": null,
       "quantity_owned": 20,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/furniture-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 170,
-      "unit": "each"
+      "short_name": "Americana",
+      "unit": "each",
+      "category": "Furniture"
     },
     {
       "id": "p-eski-half",
@@ -268,11 +308,13 @@
       "slug": "half-barrel-eski",
       "description": null,
       "quantity_owned": 2,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/eskyhireperth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 180,
-      "unit": "each"
+      "short_name": "Barrel eski",
+      "unit": "each",
+      "category": "Catering"
     },
     {
       "id": "p-eski-wb",
@@ -281,11 +323,13 @@
       "slug": "wheelbarrow-eski",
       "description": null,
       "quantity_owned": 2,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/eskyhireperth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 190,
-      "unit": "each"
+      "short_name": "WB eski",
+      "unit": "each",
+      "category": "Catering"
     },
     {
       "id": "p-slushy",
@@ -294,11 +338,13 @@
       "slug": "slushy-machine",
       "description": null,
       "quantity_owned": 1,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/slushy-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 200,
-      "unit": "each"
+      "short_name": "Slushy",
+      "unit": "each",
+      "category": "Catering"
     },
     {
       "id": "p-umbrella",
@@ -307,11 +353,13 @@
       "slug": "umbrella-2-7m",
       "description": null,
       "quantity_owned": 7,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/umbrellahireperth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 210,
-      "unit": "each"
+      "short_name": "Umbrella",
+      "unit": "each",
+      "category": "Marquees & outdoor"
     },
     {
       "id": "p-tables",
@@ -320,11 +368,13 @@
       "slug": "rectangle-foldout-tables",
       "description": null,
       "quantity_owned": 3,
-      "squarespace_path": null,
+      "squarespace_path": "/shop/p/furniture-hire-perth",
       "buffer_days": 0,
       "active": true,
       "sort_order": 220,
-      "unit": "each"
+      "short_name": "Tables",
+      "unit": "each",
+      "category": "Furniture"
     },
     {
       "id": "p-order-shell",
@@ -337,22 +387,24 @@
       "buffer_days": 0,
       "active": true,
       "sort_order": 999,
-      "unit": "each"
+      "short_name": "Job",
+      "unit": "each",
+      "category": "Other"
     }
   ],
   "bookings": [
     {
       "product_id": "p-barrel-oak",
       "quantity": 5,
-      "delivery_date": "2026-07-12",
-      "collection_date": "2026-07-15",
+      "delivery_date": "2026-07-16",
+      "collection_date": "2026-07-19",
       "status": "hold"
     },
     {
       "product_id": "p-stools",
       "quantity": 20,
-      "delivery_date": "2026-07-12",
-      "collection_date": "2026-07-15",
+      "delivery_date": "2026-07-16",
+      "collection_date": "2026-07-19",
       "status": "hold"
     },
     {
@@ -374,28 +426,105 @@
       "quantity": 3,
       "delivery_date": "2026-08-14",
       "collection_date": "2026-08-17",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-stools",
       "quantity": 9,
       "delivery_date": "2026-08-14",
       "collection_date": "2026-08-17",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-heaters",
       "quantity": 1,
       "delivery_date": "2026-08-14",
       "collection_date": "2026-08-17",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-festoon",
       "quantity": 20,
       "delivery_date": "2026-08-14",
       "collection_date": "2026-08-17",
-      "status": "hold"
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 5,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 20,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 3,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 2,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 8,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-ottoman",
+      "quantity": 1,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 5,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 20,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-marquee-4x8",
+      "quantity": 1,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-flex",
+      "quantity": 4,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 16,
+      "delivery_date": "2026-08-14",
+      "collection_date": "2026-08-17",
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-oak",
@@ -438,6 +567,34 @@
       "delivery_date": "2026-08-21",
       "collection_date": "2026-08-24",
       "status": "hold"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 2,
+      "delivery_date": "2026-08-21",
+      "collection_date": "2026-08-24",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 3,
+      "delivery_date": "2026-08-21",
+      "collection_date": "2026-08-24",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 12,
+      "delivery_date": "2026-08-21",
+      "collection_date": "2026-08-24",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 2,
+      "delivery_date": "2026-08-21",
+      "collection_date": "2026-08-24",
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-flex",
@@ -595,6 +752,69 @@
     },
     {
       "product_id": "p-barrel-oak",
+      "quantity": 5,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 20,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 10,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-flex",
+      "quantity": 4,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 16,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-cane-6",
+      "quantity": 1,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bar-flex",
+      "quantity": 1,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 40,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-umbrella",
+      "quantity": 1,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
       "quantity": 4,
       "delivery_date": "2026-09-06",
       "collection_date": "2026-09-09",
@@ -727,6 +947,48 @@
       "status": "hold"
     },
     {
+      "product_id": "p-barrel-flex",
+      "quantity": 4,
+      "delivery_date": "2026-10-01",
+      "collection_date": "2026-10-04",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 16,
+      "delivery_date": "2026-10-01",
+      "collection_date": "2026-10-04",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-cane-6",
+      "quantity": 1,
+      "delivery_date": "2026-10-01",
+      "collection_date": "2026-10-04",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bar-flex",
+      "quantity": 1,
+      "delivery_date": "2026-10-01",
+      "collection_date": "2026-10-04",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 40,
+      "delivery_date": "2026-10-01",
+      "collection_date": "2026-10-04",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-umbrella",
+      "quantity": 1,
+      "delivery_date": "2026-10-01",
+      "collection_date": "2026-10-04",
+      "status": "confirmed"
+    },
+    {
       "product_id": "p-barrel-white",
       "quantity": 4,
       "delivery_date": "2026-10-02",
@@ -746,6 +1008,69 @@
       "delivery_date": "2026-10-02",
       "collection_date": "2026-10-05",
       "status": "hold"
+    },
+    {
+      "product_id": "p-dance",
+      "quantity": 1,
+      "delivery_date": "2026-10-09",
+      "collection_date": "2026-10-12",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bench",
+      "quantity": 10,
+      "delivery_date": "2026-10-09",
+      "collection_date": "2026-10-12",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-flex",
+      "quantity": 4,
+      "delivery_date": "2026-10-16",
+      "collection_date": "2026-10-19",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 16,
+      "delivery_date": "2026-10-16",
+      "collection_date": "2026-10-19",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-cane-6",
+      "quantity": 1,
+      "delivery_date": "2026-10-16",
+      "collection_date": "2026-10-19",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bar-flex",
+      "quantity": 1,
+      "delivery_date": "2026-10-16",
+      "collection_date": "2026-10-19",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 40,
+      "delivery_date": "2026-10-16",
+      "collection_date": "2026-10-19",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-umbrella",
+      "quantity": 1,
+      "delivery_date": "2026-10-16",
+      "collection_date": "2026-10-19",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-order-shell",
+      "quantity": 1,
+      "delivery_date": "2026-10-16",
+      "collection_date": "2026-10-19",
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-white",
@@ -769,6 +1094,13 @@
       "status": "hold"
     },
     {
+      "product_id": "p-order-shell",
+      "quantity": 1,
+      "delivery_date": "2026-11-06",
+      "collection_date": "2026-11-09",
+      "status": "confirmed"
+    },
+    {
       "product_id": "p-barrel-oak",
       "quantity": 5,
       "delivery_date": "2026-11-08",
@@ -788,6 +1120,62 @@
       "delivery_date": "2026-11-08",
       "collection_date": "2026-11-11",
       "status": "hold"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 2,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 8,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-flex",
+      "quantity": 4,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 16,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-cane-6",
+      "quantity": 1,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bar-flex",
+      "quantity": 1,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 40,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-umbrella",
+      "quantity": 1,
+      "delivery_date": "2026-11-13",
+      "collection_date": "2026-11-16",
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-oak",
@@ -823,6 +1211,90 @@
       "delivery_date": "2026-11-26",
       "collection_date": "2026-11-30",
       "status": "hold"
+    },
+    {
+      "product_id": "p-ottoman",
+      "quantity": 3,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-signing",
+      "quantity": 1,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-americana",
+      "quantity": 2,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 6,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 24,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bar-oak",
+      "quantity": 1,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-flex",
+      "quantity": 4,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 16,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-cane-6",
+      "quantity": 1,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bar-flex",
+      "quantity": 1,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 40,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-umbrella",
+      "quantity": 1,
+      "delivery_date": "2026-11-27",
+      "collection_date": "2026-11-30",
+      "status": "confirmed"
     },
     {
       "product_id": "p-festoon",
@@ -942,6 +1414,34 @@
       "delivery_date": "2026-12-18",
       "collection_date": "2026-12-21",
       "status": "hold"
+    },
+    {
+      "product_id": "p-barrel-white",
+      "quantity": 2,
+      "delivery_date": "2026-12-18",
+      "collection_date": "2026-12-21",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 8,
+      "delivery_date": "2026-12-18",
+      "collection_date": "2026-12-21",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-white",
+      "quantity": 3,
+      "delivery_date": "2026-12-18",
+      "collection_date": "2026-12-21",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 5,
+      "delivery_date": "2026-12-18",
+      "collection_date": "2026-12-21",
+      "status": "confirmed"
     },
     {
       "product_id": "p-dance",
@@ -1105,6 +1605,62 @@
       "status": "hold"
     },
     {
+      "product_id": "p-marquee-4x8",
+      "quantity": 2,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-flex",
+      "quantity": 7,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 28,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 60,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-dance",
+      "quantity": 1,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 8,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 32,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 6,
+      "delivery_date": "2027-04-02",
+      "collection_date": "2027-04-05",
+      "status": "confirmed"
+    },
+    {
       "product_id": "p-barrel-oak",
       "quantity": 10,
       "delivery_date": "2027-04-09",
@@ -1257,6 +1813,204 @@
       "delivery_date": "2028-09-29",
       "collection_date": "2028-10-02",
       "status": "hold"
+    }
+  ],
+  "shop_offers": [
+    {
+      "id": "offer-barrels",
+      "name": "Wine Barrel Hire",
+      "slug": "wine-barrel-hire-perth",
+      "option_label": "Color",
+      "options": [
+        {
+          "id": "opt-barrel-white",
+          "name": "White",
+          "match": "white",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-barrel-white",
+              "quantity": 1,
+              "label": "White barrels"
+            }
+          ]
+        },
+        {
+          "id": "opt-barrel-oak",
+          "name": "Oak",
+          "match": "oak",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-barrel-oak",
+              "quantity": 1,
+              "label": "Oak barrels"
+            }
+          ]
+        },
+        {
+          "id": "opt-barrel-white-stools",
+          "name": "White with 4 x stools",
+          "match": "white with 4",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-barrel-white",
+              "quantity": 1,
+              "label": "White barrels"
+            },
+            {
+              "product_id": "p-stools",
+              "quantity": 4,
+              "label": "Stools"
+            }
+          ]
+        },
+        {
+          "id": "opt-barrel-oak-stools",
+          "name": "Oak with 4 x stools",
+          "match": "oak with 4",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-barrel-oak",
+              "quantity": 1,
+              "label": "Oak barrels"
+            },
+            {
+              "product_id": "p-stools",
+              "quantity": 4,
+              "label": "Stools"
+            }
+          ]
+        },
+        {
+          "id": "opt-stools-only",
+          "name": "Stools Only",
+          "match": "stools only",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-stools",
+              "quantity": 1,
+              "label": "Stools"
+            }
+          ]
+        },
+        {
+          "id": "opt-barrel-top",
+          "name": "Barrel Top",
+          "match": "barrel top",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-bar-top",
+              "quantity": 1,
+              "label": "Bar top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "offer-bar",
+      "name": "Bar Hire",
+      "slug": "bar-hire-perth",
+      "option_label": "Color",
+      "options": [
+        {
+          "id": "opt-bar-oak",
+          "name": "Oak Barrel Bar",
+          "match": "oak",
+          "price": 150,
+          "needs": [
+            {
+              "product_id": "p-bar-oak",
+              "quantity": 1,
+              "label": "Oak bar"
+            }
+          ],
+          "fallback": {
+            "label": "Barrel bar (two oak barrels + top)",
+            "message": "The oak bar is booked. We'll set you up with a barrel bar — two oak barrels and a bar top. Same price.",
+            "needs": [
+              {
+                "product_id": "p-barrel-oak",
+                "quantity": 2,
+                "label": "Oak barrels"
+              },
+              {
+                "product_id": "p-bar-top",
+                "quantity": 1,
+                "label": "Bar top"
+              }
+            ]
+          }
+        },
+        {
+          "id": "opt-bar-white",
+          "name": "White Barrel Bar",
+          "match": "white",
+          "price": 150,
+          "needs": [
+            {
+              "product_id": "p-bar-white",
+              "quantity": 1,
+              "label": "White bar"
+            }
+          ],
+          "fallback": {
+            "label": "Barrel bar (two white barrels + top)",
+            "message": "The white bar is booked. We'll set you up with a barrel bar — two white barrels and a bar top. Same price.",
+            "needs": [
+              {
+                "product_id": "p-barrel-white",
+                "quantity": 2,
+                "label": "White barrels"
+              },
+              {
+                "product_id": "p-bar-top",
+                "quantity": 1,
+                "label": "Bar top"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "offer-eski",
+      "name": "Eski Hire",
+      "slug": "eskyhireperth",
+      "option_label": "Type",
+      "options": [
+        {
+          "id": "opt-eski-half",
+          "name": "Half barrel eski",
+          "match": "half",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-eski-half",
+              "quantity": 1,
+              "label": "Half barrel eski"
+            }
+          ]
+        },
+        {
+          "id": "opt-eski-wb",
+          "name": "Wheelbarrow eski",
+          "match": "wheelbarrow",
+          "price": null,
+          "needs": [
+            {
+              "product_id": "p-eski-wb",
+              "quantity": 1,
+              "label": "Wheelbarrow eski"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
