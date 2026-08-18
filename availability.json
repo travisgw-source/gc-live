@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T04:39:11.183Z",
+  "updated_at": "2026-08-18T04:39:13.311Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -592,6 +592,13 @@
     {
       "product_id": "p-barrel-oak",
       "quantity": 2,
+      "delivery_date": "2026-08-21",
+      "collection_date": "2026-08-24",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-marquee-4x8",
+      "quantity": 1,
       "delivery_date": "2026-08-21",
       "collection_date": "2026-08-24",
       "status": "confirmed"
@@ -1645,6 +1652,20 @@
       "delivery_date": "2027-02-26",
       "collection_date": "2027-03-01",
       "status": "hold"
+    },
+    {
+      "product_id": "p-slushy",
+      "quantity": 1,
+      "delivery_date": "2027-02-26",
+      "collection_date": "2027-03-01",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bar-flex",
+      "quantity": 1,
+      "delivery_date": "2027-02-26",
+      "collection_date": "2027-03-01",
+      "status": "confirmed"
     },
     {
       "product_id": "p-marquee-4x8",
