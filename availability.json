@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:55:42.153Z",
+  "updated_at": "2026-08-18T09:56:34.444Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -1385,6 +1385,48 @@
       "quantity": 8,
       "delivery_date": "2026-10-02",
       "collection_date": "2026-10-05",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 5,
+      "delivery_date": "2026-10-08",
+      "collection_date": "2026-10-12",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 20,
+      "delivery_date": "2026-10-08",
+      "collection_date": "2026-10-12",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-cane-6",
+      "quantity": 1,
+      "delivery_date": "2026-10-08",
+      "collection_date": "2026-10-12",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 2,
+      "delivery_date": "2026-10-08",
+      "collection_date": "2026-10-12",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-ottoman",
+      "quantity": 2,
+      "delivery_date": "2026-10-08",
+      "collection_date": "2026-10-12",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-eski-half",
+      "quantity": 2,
+      "delivery_date": "2026-10-08",
+      "collection_date": "2026-10-12",
       "status": "hold"
     },
     {
