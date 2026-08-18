@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:48:22.208Z",
+  "updated_at": "2026-08-18T08:49:40.016Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -419,6 +419,13 @@
       "quantity": 20,
       "delivery_date": "2026-07-23",
       "collection_date": "2026-07-27",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 3,
+      "delivery_date": "2026-08-12",
+      "collection_date": "2026-08-16",
       "status": "hold"
     },
     {
