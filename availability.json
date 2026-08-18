@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:55:20.046Z",
+  "updated_at": "2026-08-18T08:56:46.695Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -420,13 +420,6 @@
       "delivery_date": "2026-07-23",
       "collection_date": "2026-07-27",
       "status": "hold"
-    },
-    {
-      "product_id": "p-festoon",
-      "quantity": 3,
-      "delivery_date": "2026-08-12",
-      "collection_date": "2026-08-16",
-      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-white",
@@ -889,6 +882,13 @@
       "delivery_date": "2026-09-06",
       "collection_date": "2026-09-09",
       "status": "hold"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 3,
+      "delivery_date": "2026-09-11",
+      "collection_date": "2026-09-15",
+      "status": "confirmed"
     },
     {
       "product_id": "p-marquee-4x8",
