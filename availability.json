@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T10:49:14.522Z",
+  "updated_at": "2026-08-18T13:03:18.379Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -634,43 +634,43 @@
     {
       "product_id": "p-barrel-flex",
       "quantity": 4,
-      "delivery_date": "2026-08-27",
-      "collection_date": "2026-08-31",
+      "delivery_date": "2026-08-26",
+      "collection_date": "2026-09-01",
       "status": "hold"
     },
     {
       "product_id": "p-stools",
       "quantity": 16,
-      "delivery_date": "2026-08-27",
-      "collection_date": "2026-08-31",
+      "delivery_date": "2026-08-26",
+      "collection_date": "2026-09-01",
       "status": "hold"
     },
     {
       "product_id": "p-cane-6",
       "quantity": 1,
-      "delivery_date": "2026-08-27",
-      "collection_date": "2026-08-31",
+      "delivery_date": "2026-08-26",
+      "collection_date": "2026-09-01",
       "status": "hold"
     },
     {
       "product_id": "p-bar-flex",
       "quantity": 1,
-      "delivery_date": "2026-08-27",
-      "collection_date": "2026-08-31",
+      "delivery_date": "2026-08-26",
+      "collection_date": "2026-09-01",
       "status": "hold"
     },
     {
       "product_id": "p-festoon",
       "quantity": 40,
-      "delivery_date": "2026-08-27",
-      "collection_date": "2026-08-31",
+      "delivery_date": "2026-08-26",
+      "collection_date": "2026-09-01",
       "status": "hold"
     },
     {
       "product_id": "p-umbrella",
       "quantity": 1,
-      "delivery_date": "2026-08-27",
-      "collection_date": "2026-08-31",
+      "delivery_date": "2026-08-26",
+      "collection_date": "2026-09-01",
       "status": "hold"
     },
     {
