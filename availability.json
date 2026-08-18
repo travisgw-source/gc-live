@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T05:04:34.396Z",
+  "updated_at": "2026-08-18T05:09:35.333Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -628,7 +628,7 @@
       "product_id": "p-marquee-4x8",
       "quantity": 1,
       "delivery_date": "2026-08-21",
-      "collection_date": "2026-08-27",
+      "collection_date": "2026-08-24",
       "status": "confirmed"
     },
     {
