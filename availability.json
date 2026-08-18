@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:56:46.695Z",
+  "updated_at": "2026-08-18T08:57:56.284Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -895,21 +895,21 @@
       "quantity": 3,
       "delivery_date": "2026-09-11",
       "collection_date": "2026-09-13",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-festoon",
       "quantity": 5,
       "delivery_date": "2026-09-11",
       "collection_date": "2026-09-13",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-dance",
       "quantity": 1,
       "delivery_date": "2026-09-11",
       "collection_date": "2026-09-13",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-oak",
