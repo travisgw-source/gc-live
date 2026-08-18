@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:51:00.266Z",
+  "updated_at": "2026-08-18T08:51:29.850Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -426,7 +426,7 @@
       "quantity": 3,
       "delivery_date": "2026-08-12",
       "collection_date": "2026-08-16",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-white",
