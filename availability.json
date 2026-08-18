@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T06:44:37.061Z",
+  "updated_at": "2026-08-18T08:04:55.201Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -1318,6 +1318,27 @@
       "status": "confirmed"
     },
     {
+      "product_id": "p-barrel-oak",
+      "quantity": 5,
+      "delivery_date": "2026-11-04",
+      "collection_date": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 20,
+      "delivery_date": "2026-11-04",
+      "collection_date": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-marquee-4x8",
+      "quantity": 2,
+      "delivery_date": "2026-11-04",
+      "collection_date": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
       "product_id": "p-barrel-white",
       "quantity": 3,
       "delivery_date": "2026-11-05",
@@ -1343,27 +1364,6 @@
       "quantity": 1,
       "delivery_date": "2026-11-06",
       "collection_date": "2026-11-09",
-      "status": "confirmed"
-    },
-    {
-      "product_id": "p-barrel-oak",
-      "quantity": 5,
-      "delivery_date": "2026-11-08",
-      "collection_date": "2026-11-11",
-      "status": "confirmed"
-    },
-    {
-      "product_id": "p-festoon",
-      "quantity": 20,
-      "delivery_date": "2026-11-08",
-      "collection_date": "2026-11-11",
-      "status": "confirmed"
-    },
-    {
-      "product_id": "p-marquee-4x8",
-      "quantity": 2,
-      "delivery_date": "2026-11-08",
-      "collection_date": "2026-11-11",
       "status": "confirmed"
     },
     {
