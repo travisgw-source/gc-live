@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:56:34.444Z",
+  "updated_at": "2026-08-18T10:00:58.092Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -1476,6 +1476,41 @@
       "quantity": 24,
       "delivery_date": "2026-10-10",
       "collection_date": "2026-10-13",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 3,
+      "delivery_date": "2026-10-10",
+      "collection_date": "2026-10-11",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 16,
+      "delivery_date": "2026-10-10",
+      "collection_date": "2026-10-11",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 2,
+      "delivery_date": "2026-10-10",
+      "collection_date": "2026-10-11",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-cane-6",
+      "quantity": 1,
+      "delivery_date": "2026-10-10",
+      "collection_date": "2026-10-11",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-bar-flex",
+      "quantity": 1,
+      "delivery_date": "2026-10-10",
+      "collection_date": "2026-10-11",
       "status": "hold"
     },
     {
