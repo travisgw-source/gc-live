@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:42:10.917Z",
+  "updated_at": "2026-08-18T23:50:00.790Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -513,6 +513,13 @@
       "status": "confirmed"
     },
     {
+      "product_id": "p-marquee-4x8",
+      "quantity": 1,
+      "delivery_date": "2026-08-20",
+      "collection_date": "2026-08-24",
+      "status": "confirmed"
+    },
+    {
       "product_id": "p-stools",
       "quantity": 20,
       "delivery_date": "2026-08-21",
@@ -592,13 +599,6 @@
     {
       "product_id": "p-barrel-oak",
       "quantity": 2,
-      "delivery_date": "2026-08-21",
-      "collection_date": "2026-08-24",
-      "status": "confirmed"
-    },
-    {
-      "product_id": "p-marquee-4x8",
-      "quantity": 1,
       "delivery_date": "2026-08-21",
       "collection_date": "2026-08-24",
       "status": "confirmed"
