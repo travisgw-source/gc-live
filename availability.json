@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:50:00.790Z",
+  "updated_at": "2026-08-18T23:50:17.951Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -522,14 +522,14 @@
     {
       "product_id": "p-stools",
       "quantity": 20,
-      "delivery_date": "2026-08-21",
+      "delivery_date": "2026-08-20",
       "collection_date": "2026-08-24",
       "status": "confirmed"
     },
     {
       "product_id": "p-barrel-oak",
       "quantity": 5,
-      "delivery_date": "2026-08-21",
+      "delivery_date": "2026-08-20",
       "collection_date": "2026-08-24",
       "status": "confirmed"
     },
