@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:02:17.867Z",
+  "updated_at": "2026-08-18T09:03:29.160Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -1106,6 +1106,41 @@
       "delivery_date": "2026-09-18",
       "collection_date": "2026-09-21",
       "status": "confirmed"
+    },
+    {
+      "product_id": "p-marquee-4x8",
+      "quantity": 2,
+      "delivery_date": "2026-09-18",
+      "collection_date": "2026-09-21",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-barrel-white",
+      "quantity": 7,
+      "delivery_date": "2026-09-18",
+      "collection_date": "2026-09-21",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-stools",
+      "quantity": 28,
+      "delivery_date": "2026-09-18",
+      "collection_date": "2026-09-21",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-festoon",
+      "quantity": 3,
+      "delivery_date": "2026-09-18",
+      "collection_date": "2026-09-21",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-umbrella",
+      "quantity": 2,
+      "delivery_date": "2026-09-18",
+      "collection_date": "2026-09-21",
+      "status": "hold"
     },
     {
       "product_id": "p-barrel-white",
