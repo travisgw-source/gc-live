@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T06:33:17.449Z",
+  "updated_at": "2026-08-23T01:47:58.151Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -97,7 +97,7 @@
       "name": "4x8 Marquee",
       "slug": "marquee-4x8",
       "description": null,
-      "quantity_owned": 7,
+      "quantity_owned": 6,
       "squarespace_path": "/shop/p/marquee-hire-perth",
       "buffer_days": 0,
       "active": true,
