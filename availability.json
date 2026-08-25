@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T07:57:45.628Z",
+  "updated_at": "2026-08-25T07:58:21.925Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -678,14 +678,14 @@
       "quantity": 1,
       "delivery_date": "2026-08-27",
       "collection_date": "2026-08-31",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-heaters",
       "quantity": 1,
       "delivery_date": "2026-08-27",
       "collection_date": "2026-08-31",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-marquee-4x8",
