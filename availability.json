@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:55:23.103Z",
+  "updated_at": "2026-08-25T01:56:28.112Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -704,55 +704,6 @@
     {
       "product_id": "p-marquee-4x8",
       "quantity": 1,
-      "delivery_date": "2026-08-28",
-      "collection_date": "2026-08-31",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-marquee-4x8",
-      "quantity": 3,
-      "delivery_date": "2026-08-28",
-      "collection_date": "2026-08-31",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-heaters",
-      "quantity": 2,
-      "delivery_date": "2026-08-28",
-      "collection_date": "2026-08-31",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-stools",
-      "quantity": 2,
-      "delivery_date": "2026-08-28",
-      "collection_date": "2026-08-31",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-barrel-oak",
-      "quantity": 7,
-      "delivery_date": "2026-08-28",
-      "collection_date": "2026-08-31",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-bar-flex",
-      "quantity": 2,
-      "delivery_date": "2026-08-28",
-      "collection_date": "2026-08-31",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-americana",
-      "quantity": 70,
-      "delivery_date": "2026-08-28",
-      "collection_date": "2026-08-31",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-festoon",
-      "quantity": 3,
       "delivery_date": "2026-08-28",
       "collection_date": "2026-08-31",
       "status": "hold"
