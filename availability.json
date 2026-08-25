@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T07:59:54.707Z",
+  "updated_at": "2026-08-25T08:00:28.731Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -692,7 +692,7 @@
       "quantity": 1,
       "delivery_date": "2026-08-27",
       "collection_date": "2026-08-31",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-oak",
