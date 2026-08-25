@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T07:59:31.335Z",
+  "updated_at": "2026-08-25T07:59:54.707Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -559,21 +559,21 @@
       "quantity": 1,
       "delivery_date": "2026-08-21",
       "collection_date": "2026-08-24",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-flex",
       "quantity": 4,
       "delivery_date": "2026-08-21",
       "collection_date": "2026-08-24",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-stools",
       "quantity": 16,
       "delivery_date": "2026-08-21",
       "collection_date": "2026-08-24",
-      "status": "hold"
+      "status": "confirmed"
     },
     {
       "product_id": "p-barrel-oak",
