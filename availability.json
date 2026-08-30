@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T09:26:06.410Z",
+  "updated_at": "2026-08-30T09:27:30.280Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -4325,6 +4325,13 @@
       "quantity": 4,
       "delivery_date": "2027-11-12",
       "collection_date": "2027-11-15",
+      "status": "hold"
+    },
+    {
+      "product_id": "p-order-shell",
+      "quantity": 1,
+      "delivery_date": "2027-11-26",
+      "collection_date": "2027-11-29",
       "status": "hold"
     },
     {
