@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T09:27:30.280Z",
+  "updated_at": "2026-08-30T10:08:57.789Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -633,7 +633,14 @@
     },
     {
       "product_id": "p-marquee-4x8",
-      "quantity": 1,
+      "quantity": 2,
+      "delivery_date": "2026-08-26",
+      "collection_date": "2026-09-01",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-oak",
+      "quantity": 5,
       "delivery_date": "2026-08-26",
       "collection_date": "2026-09-01",
       "status": "confirmed"
@@ -661,7 +668,7 @@
     },
     {
       "product_id": "p-barrel-oak",
-      "quantity": 7,
+      "quantity": 8,
       "delivery_date": "2026-08-27",
       "collection_date": "2026-08-31",
       "status": "confirmed"
@@ -891,6 +898,20 @@
       "status": "hold"
     },
     {
+      "product_id": "p-festoon",
+      "quantity": 20,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-barrel-white",
+      "quantity": 3,
+      "delivery_date": "2026-09-04",
+      "collection_date": "2026-09-07",
+      "status": "confirmed"
+    },
+    {
       "product_id": "p-barrel-oak",
       "quantity": 4,
       "delivery_date": "2026-09-06",
@@ -1004,14 +1025,14 @@
     },
     {
       "product_id": "p-barrel-flex",
-      "quantity": 4,
+      "quantity": 6,
       "delivery_date": "2026-09-18",
       "collection_date": "2026-09-21",
       "status": "hold"
     },
     {
       "product_id": "p-stools",
-      "quantity": 16,
+      "quantity": 4,
       "delivery_date": "2026-09-18",
       "collection_date": "2026-09-21",
       "status": "hold"
@@ -1494,7 +1515,7 @@
     },
     {
       "product_id": "p-barrel-oak",
-      "quantity": 10,
+      "quantity": 2,
       "delivery_date": "2026-10-02",
       "collection_date": "2026-10-05",
       "status": "hold"
@@ -1586,13 +1607,6 @@
     {
       "product_id": "p-dance",
       "quantity": 1,
-      "delivery_date": "2026-10-09",
-      "collection_date": "2026-10-12",
-      "status": "confirmed"
-    },
-    {
-      "product_id": "p-bench",
-      "quantity": 10,
       "delivery_date": "2026-10-09",
       "collection_date": "2026-10-12",
       "status": "confirmed"
@@ -2432,7 +2446,7 @@
     },
     {
       "product_id": "p-barrel-oak",
-      "quantity": 4,
+      "quantity": 2,
       "delivery_date": "2026-11-06",
       "collection_date": "2026-11-09",
       "status": "hold"
