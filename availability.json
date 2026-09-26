@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:30:25.047Z",
+  "updated_at": "2026-09-26T07:29:06.654Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -5516,6 +5516,34 @@
       "quantity": 1,
       "delivery_date": "2027-03-05",
       "collection_date": "2027-03-08",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-arch",
+      "quantity": 1,
+      "delivery_date": "2027-03-12",
+      "collection_date": "2027-03-15",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-bench",
+      "quantity": 8,
+      "delivery_date": "2027-03-12",
+      "collection_date": "2027-03-15",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-signing",
+      "quantity": 1,
+      "delivery_date": "2027-03-12",
+      "collection_date": "2027-03-15",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-americana",
+      "quantity": 2,
+      "delivery_date": "2027-03-12",
+      "collection_date": "2027-03-15",
       "status": "confirmed"
     },
     {
