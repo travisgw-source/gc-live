@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:56:34.581Z",
+  "updated_at": "2026-09-30T23:19:29.999Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -408,20 +408,6 @@
     }
   ],
   "bookings": [
-    {
-      "product_id": "p-barrel-oak",
-      "quantity": 5,
-      "delivery_date": "2026-07-16",
-      "collection_date": "2026-07-19",
-      "status": "hold"
-    },
-    {
-      "product_id": "p-stools",
-      "quantity": 20,
-      "delivery_date": "2026-07-16",
-      "collection_date": "2026-07-19",
-      "status": "hold"
-    },
     {
       "product_id": "p-barrel-oak",
       "quantity": 6,
