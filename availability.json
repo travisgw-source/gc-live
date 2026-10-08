@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T13:05:04.929Z",
+  "updated_at": "2026-10-08T05:38:06.351Z",
   "products": [
     {
       "id": "p-barrel-oak",
@@ -97,7 +97,7 @@
       "name": "4x8 Marquee",
       "slug": "marquee-4x8",
       "description": null,
-      "quantity_owned": 6,
+      "quantity_owned": 7,
       "squarespace_path": "/shop/p/marquee-hire-perth",
       "buffer_days": 0,
       "active": true,
@@ -202,7 +202,7 @@
       "name": "Bar (oak or white)",
       "slug": "bar-oak-or-white",
       "description": null,
-      "quantity_owned": 2,
+      "quantity_owned": 10,
       "squarespace_path": "/shop/p/bar-hire-perth",
       "buffer_days": 0,
       "active": true,
@@ -3245,6 +3245,13 @@
     },
     {
       "product_id": "p-marquee-4x8",
+      "quantity": 1,
+      "delivery_date": "2026-10-09",
+      "collection_date": "2026-10-12",
+      "status": "confirmed"
+    },
+    {
+      "product_id": "p-marquee-4x8",
       "quantity": 2,
       "delivery_date": "2026-10-10",
       "collection_date": "2026-10-13",
@@ -3627,6 +3634,13 @@
       "delivery_date": "2026-10-16",
       "collection_date": "2026-10-19",
       "status": "hold"
+    },
+    {
+      "product_id": "p-slushy",
+      "quantity": 1,
+      "delivery_date": "2026-10-22",
+      "collection_date": "2026-10-25",
+      "status": "confirmed"
     },
     {
       "product_id": "p-marquee-4x8",
